@@ -1,8 +1,8 @@
 function love.conf(t)
 
-	t.title = "Isömap 0.094"
+	t.title = "Isömap 0.095"
 	t.author = "Saegor"
-	t.version = "0.8.0"
+	t.version = "0.9.0"
 	t.url = nil
 	t.identity = nil
 	t.release = false
